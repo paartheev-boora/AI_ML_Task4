@@ -6,7 +6,7 @@ This project uses **Logistic Regression** on the Breast Cancer Wisconsin dataset
 
 ##  Dataset
 
-- Source: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- Source: [Kaggle Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - Features include radius, texture, perimeter, area, smoothness, and other cell nucleus characteristics.
 - Target variable: `diagnosis` (Malignant = 1, Benign = 0)
 
